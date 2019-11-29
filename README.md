@@ -1,4 +1,4 @@
-# Map location
+# Shop Location
 Display coordinates of shop, 
 User can toogle the pin callout using buttons. 
 Filter option is there for location filter.  
